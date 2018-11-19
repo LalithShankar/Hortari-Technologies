@@ -23,4 +23,4 @@ public class Votes {
 	  String[] votes = {"raj","ram","raj","lalith","hortari","ram"};
 	countvotes(votes);
   }
-}
+} 
