@@ -1,2 +1,3 @@
 # Hortari-Technologies
-Programming Tasks
+Programming Tasks: Total of 7 questions 
+
